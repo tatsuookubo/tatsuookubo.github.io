@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D.** in Neuroscience, Department of Brain and Cognitive Sciences, MIT, 2015
+* **M.S.** in Information Physics and Computing, Graduate School of Information Science and Technology, The University of Tokyo, 2008
+* **B.S.** in Mathematical Engineering and Information Physics, The University of Tokyo, 2006
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-present: Postdoctoral Fellow
+  * Harvard Medical School, Boston, MA
+  * Neural circuit mechanisms underlying wind-guided navigation in *Drosophila*
+  * Advisor: Dr. Rachel Wilson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2008-2015: Graduate Research Assistant
+  * Massachusetts Institute of Technology, Cambridge, MA
+  * Neural mechanisms of song learning in juvenile zebra finches
+  * Advisor: Dr. Michale Fee
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2006-2008: Graduate Research Assistant
+  * The University of Tokyo, Tokyo, Japan
+  * Development of brain machine interfaces in rats
+  * Advisors: Dr. Kunihiko Mabuchi, Dr. Takafumi Suzuki
+
+* 2005-2006: Undergraduate Research Assistant
+  * The University of Tokyo, Tokyo, Japan
+  * Investigating relationships between reaction times and brain activities measured by MEG
+  * Advisors: Dr. Tsunehiro Takeda, Dr. Kaoru Amano
   
-Talks
+ 
+Honors & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Warren Alpert Distinguished Scholar](https://www.warrenalpertfoundation.org/awards/) (2020-current)
+* HHMI Fellow of the [Helen Hay Whitney Foundation](http://hhwf.org/) (2017-2020)
+* Mahoney Postdoctoral Fellow (Department of Neurobiology, HMS, 2016-2017)
+* [Capranica Prize](https://www.neuroethology.org/Awards/CapranicaPrize) (International Society for Neuroethology; 2016)
+* Hubert Schoemaker Fellowship (MIT; 2013 – 2014)
+* [The Nakajima Foundation Scholarship](http://www.nakajimafound.or.jp/) (2008 – 2013)
+* Walle Nauta Award for Continuing Dedication to Teaching (Department of Brain and Cognitive Sciences, MIT; 2011)
+* Angus McDonald Award for Excellence in Undergraduate Teaching (Department of Brain and Cognitive Sciences, MIT; 2010)
+* Academic Research Grant Program, University of Tokyo (2007)
+* Science Grand Prix for Junior High School Students, Tokyo Electric Power Company (1997)
