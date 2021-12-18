@@ -35,6 +35,9 @@ Here are links to courses that I find very useful (although I have not watched a
 * John Cunningham (Columbia): [Deep Generative Models](http://stat.columbia.edu/~cunningham/teaching/GR8201/)
  
 
+# Graph neural networks
+* Jure Leskovec (Stanford): [CS224W Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) [videos from 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+
 # Reinforcement learning
 * Pieter Abbeel (UC Berkeley): [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 * David Silver (UCL, DeepMind): [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
