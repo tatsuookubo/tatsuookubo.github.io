@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /resources/
+permalink: /resources_books/
 author_profile: true
 redirect_from:
 ---
@@ -11,6 +11,9 @@ redirect_from:
 
 Textbooks
 ======
+* Computational neuroscience
+  * Dayan & Abbott, *"Theoretical Neuroscience"* (2001)
+
 * Mathematics for machine learning
   * Deisenroth, Faisal, Ong, *"Mathematics for Machine Learning"* (2020)
 
