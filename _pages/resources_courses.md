@@ -10,7 +10,9 @@ redirect_from:
 
 Here are links to courses that might be useful, although I have only had a chance to explore some of them. 
 
-# 
+# Mathematics for machine learning
+* Ryan Adams (Princeton): [COS 302 Mathematics for Numerical Computing and Machine Learning](https://www.cs.princeton.edu/courses/archive/spring21/cos302/)
+* Gilbert Strang (MIT): [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 # Deep learning
 * Raj Rao Nadakuditi (U. Michigan, Continuum): [Computational Machine Learning for Scientists and Engineers](https://continuum.engin.umich.edu/programs/jumpstart-ml/)
