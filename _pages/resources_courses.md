@@ -8,12 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
-Here are links to courses that I find very useful (although I have not watched all of them yet). 
+Here are links to courses that might be useful, although I have only had a chance to explore some of them. 
+
+# 
 
 # Deep learning
 * Raj Rao Nadakuditi (U. Michigan, Continuum): [Computational Machine Learning for Scientists and Engineers](https://continuum.engin.umich.edu/programs/jumpstart-ml/)
 * Andrew Ng (deeplearning.ai)
-* Fei-Fei Li (Stanford): [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html) [videos from 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* Yann LeCun (NYU): [Deep Learning](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+* Fei-Fei Li (Stanford): [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html), [videos from 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* Sergey Levine (UC Berkeley): [CS182 Deep Learning](https://cs182sp21.github.io/), [videos from 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
 # Statistical Learning
 * Hastie & Tibshirani (Stanford, edX)
@@ -37,6 +41,7 @@ Here are links to courses that I find very useful (although I have not watched a
 
 # Graph neural networks
 * Jure Leskovec (Stanford): [CS224W Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) [videos from 2021](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+* Bronstein, Bruna, Cohen, Veličković: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 
 # Reinforcement learning
 * Pieter Abbeel (UC Berkeley): [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
