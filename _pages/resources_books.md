@@ -16,6 +16,7 @@ Textbooks
 
 * Mathematics for machine learning
   * Deisenroth, Faisal, Ong, *"Mathematics for Machine Learning"* (2020)
+  * Strang, *"Linear Algebra and Learning from Data"* (2019)
 
 * Bayesian statistics
   * Kruschke, *"Doing Bayesian Data Analysis"*, 2nd ed. (2015)

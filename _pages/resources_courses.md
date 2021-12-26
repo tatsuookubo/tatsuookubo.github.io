@@ -14,6 +14,12 @@ Here are links to courses that might be useful, although I have only had a chanc
 * Ryan Adams (Princeton): [COS 302 Mathematics for Numerical Computing and Machine Learning](https://www.cs.princeton.edu/courses/archive/spring21/cos302/)
 * Gilbert Strang (MIT): [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
+# Linear dynamical systems
+* Stephen Boyd (Stanford): [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/archive/), [videos from 2008](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+
+# Optimization
+* Stephen Boyd (Stanford): [EE364a: Convex Optimization I](https://web.stanford.edu/class/ee364a/), [videos from 2008](http://www.youtube.com/view_play_list?p=3940DD956CDF0622)
+
 # Deep learning
 * Raj Rao Nadakuditi (U. Michigan, Continuum): [Computational Machine Learning for Scientists and Engineers](https://continuum.engin.umich.edu/programs/jumpstart-ml/)
 * Andrew Ng (deeplearning.ai)
