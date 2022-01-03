@@ -30,3 +30,6 @@ Textbooks
 * Probabilistic machine learning
   * Bishop, *"Pattern Recognition and Machine Learning"* (2006): PRML
   * Murphy, *"Machine Learning: A Probabilistic Perspective"* (2012): MLaPP
+
+* Fairness
+  * Christian, *"The Alignment Problem: Machine Learning and Human Values"* (2020)
