@@ -53,10 +53,12 @@ Here are links to courses that might be useful, although I have only had a chanc
 * Bronstein, Bruna, Cohen, Veličković: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 
 # Reinforcement learning
+* Martha White & Adam White (U. Alberta) [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
 * Pieter Abbeel (UC Berkeley): [Foundations of Deep RL](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 * David Silver (UCL, DeepMind): [Introduction to Reinforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 * Emma Brunskill (Stanford):  [CS234 Reinforcement Learning](https://web.stanford.edu/class/cs234/) [videos from 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * Pieter Abbeel, Yan Duan, Xi Chen, Andrej Karpathy (UC Berkeley, Tesla): [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * Sergey Levine (UC Berkeley) [CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) [videos from 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
 * Chelsea Finn (Stanford): [CS330 Deep Multi-Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+* Fragkiadaki & Salakhutdinov (CMU) [10-703 Deep Reinforcement Learning](https://cmudeeprl.github.io/703website_f21/)
 
