@@ -61,4 +61,5 @@ Here are links to courses that might be useful, although I have only had a chanc
 * Sergey Levine (UC Berkeley) [CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/) [videos from 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
 * Chelsea Finn (Stanford): [CS330 Deep Multi-Task and Meta Learning](https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 * Fragkiadaki & Salakhutdinov (CMU) [10-703 Deep Reinforcement Learning](https://cmudeeprl.github.io/703website_f21/)
+* Wulfram Gerstner (EPFL): [Artificial Neural Networks: Deep Learning and Reinforcement Learning](https://lcnwww.epfl.ch/gerstner/VideoLecturesANN-Gerstner.html)
 
