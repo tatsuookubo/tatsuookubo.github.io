@@ -12,7 +12,11 @@ Here are links to courses that might be useful, although I have only had a chanc
 
 # Mathematics for machine learning
 * Ryan Adams (Princeton): [COS 302 Mathematics for Numerical Computing and Machine Learning](https://www.cs.princeton.edu/courses/archive/spring21/cos302/)
-* Gilbert Strang (MIT): [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
+# Linear algebra
+* Gilbert Strang (MIT): [18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* Stephen Boyd (Stanford): [ENGR108: Introduction to Matrix Methods](https://web.stanford.edu/class/engr108/), [videos from 2020](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
+* Gilbert Strang (MIT): [18.065" Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 # Linear dynamical systems and control theory
 * Stephen Boyd (Stanford): [EE263: Introduction to Linear Dynamical Systems](http://ee263.stanford.edu/archive/), [videos from 2008](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
