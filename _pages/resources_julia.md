@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here are links to resources on Julia language. 
+Here are links to resources (books and courses) on Julia language. 
 
 # General
 * Edelman, Sanders, and Leiserson (MIT course, 2021), [18.S191: Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
@@ -19,6 +19,8 @@ Here are links to resources on Julia language.
 
 # Numerical computation
 * Driscoll & Braun (SIAM, 2017), *'Fundamentals of Numerical Computation'*, [Julia edition](https://tobydriscoll.net/fnc-julia/frontmatter.html)
+* Townsend (Cornell): [*'Top Ten Algorithms from the 20th Century'*](https://pi.math.cornell.edu/~web6140/) 
+
 
 # Optimization
 * Kochenderfer & Wheeler (MIT Press, 2019), *'Algorithms for Optimization', [free PDF](https://algorithmsbook.com/optimization/)
