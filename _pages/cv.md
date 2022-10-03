@@ -17,7 +17,10 @@ Education
 
 Research Experience
 ======
-* 2015-present: Postdoctoral Fellow
+* 2022-present: Senior Research Fellow
+  * Chinese Institute for Brain Research, Beijing (CIBR)
+
+* 2015-2022: Postdoctoral Fellow
   * Harvard Medical School, Boston, MA
   * Neural circuit mechanisms underlying wind-guided navigation in *Drosophila*
   * Advisor: Dr. Rachel Wilson
