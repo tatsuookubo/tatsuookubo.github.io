@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This page is still under construction. Thank you for your patience!
+Welcome to my page!
+This page is still under construction. Thank you for your patience.
