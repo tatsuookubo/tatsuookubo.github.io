@@ -9,20 +9,11 @@ redirect_from:
 {% include base_path %}
 
 
-Textbooks
-======
-* Mathematics for machine learning
-  * Deisenroth, Faisal, Ong, *"Mathematics for Machine Learning"* (2020)
 
-* Bayesian statistics
-  * Kruschke, *"Doing Bayesian Data Analysis"*, 2nd ed. (2015)
-  * McElreath, *"Statistical Rethinking"*, 2nd ed. (2020)
-  * Gelman, Carlin, Stern, Dunson, Vehtari, Rubin, *"Bayesian Data Analysis"*, 3rd ed. (2014): BDA3
+* Bishop, *"Pattern Recognition and Machine Learning"* (2006): An excellent textbook on probabilistic machine learning. While it was published before the deep learning era, all the concepts are still very important.
+* [Havard AM207](https://onefishy.github.io/am207/) *"Stochastic Methods for Data Analysis, Inference and Optimization"*: lecture videos and Python exercises that covers Bayesian inference, latent variable models, MCMC, HMC, and VAE in a logical step-by-step progression.
+* Betancourt, [writing](https://betanalpha.github.io/writing/)"*: Comprehensive introduction to probabilistic modeling with lots of code examples in Stan. This level of in-depth discussion is hard to find elsewhere and is very valuable. 
 
-* Statistical learning
-  * James, Witten, Hastie, Tibshirani, *"An Introduction to Statistical Learning with Applications in R"*, 2nd ed. (2021): ISLR
-  * Hastie, Tibshirani, Friedman, *"The Elements of Statistical Learning", 2nd ed.* (2008)": ESL
-
-* Probabilistic machine learning
-  * Bishop, *"Pattern Recognition and Machine Learning"* (2006): PRML
-  * Murphy, *"Machine Learning: A Probabilistic Perspective"* (2012): MLaPP
+* James, Witten, Hastie, and Tibshirani, *"An Introduction to Statistical Learning with Applications in R"*, 2nd ed. (2021): ISLR
+* Zhang, Lipton, Li, and Smola, *"Dive into Deep Learning"* (2019): [D2L](https://d2l.ai/index.html#): great balance between explanations and code snippets (in PyTorch, MXNet, and TensorFlow)
+* Murphy, *"Probabilistic Machine Learning"* (2022):
