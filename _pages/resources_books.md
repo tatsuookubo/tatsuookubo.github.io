@@ -12,10 +12,13 @@ redirect_from:
 Textbooks
 ======
 * Computational neuroscience
-  * Dayan & Abbott, *"Theoretical Neuroscience"* (2001)
+  * Dayan & Abbott, *"Theoretical Neuroscience"* (MIT Press, 2001)
 
 * Neural data analysis
-  * Kass, Eden, and Brown, *"Analysis of Neural Data"* (2014)
+  * Kramer & Eden, *"Case Studies in Neural Data Analysis"* (MIT Press, 2016): step-by-step analysis using basic spectral analysis and GLM modeling using MATLAB and [Python](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
+  * Cohen, *"Analyzing Neural Time Series Data"* (MIT Press, 2014): excellent section on time-frequency analysis, [MATLAB code](https://github.com/mikexcohen/AnalyzingNeuralTimeSeries)
+  * Kass, Eden, and Brown, *"Analysis of Neural Data"* (Springer, 2014): wide coverage of topics, [code examples in MATLAB and R](https://www.stat.cmu.edu/~kass/KEB/)
+  * Mitra & Bokil, *"Observed Brain Dynamics"* (Oxford University Press, 2008): good coverage of advanced spectral methods on neural data
 
 * Mathematics for machine learning
   * Deisenroth, Faisal, Ong, *"Mathematics for Machine Learning"* (2020)
@@ -24,17 +27,13 @@ Textbooks
 * Bayesian statistics
   * Kruschke, *"Doing Bayesian Data Analysis"*, 2nd ed. (2015)
   * McElreath, *"Statistical Rethinking"*, 2nd ed. (2020)
-  * Gelman, Carlin, Stern, Dunson, Vehtari, Rubin, *"Bayesian Data Analysis"*, 3rd ed. (2014): BDA3
+  
 
 * Statistical learning
   * James, Witten, Hastie, and Tibshirani, *"An Introduction to Statistical Learning with Applications in R"*, 2nd ed. (2021): ISLR
   * Hastie, Tibshirani, and Friedman, *"The Elements of Statistical Learning", 2nd ed.* (2008)": ESL
 
 * Probabilistic machine learning
-  * Bishop, *"Pattern Recognition and Machine Learning"* (2006): PRML
-  * Murphy, *"Machine Learning: A Probabilistic Perspective"* (2012): MLaPP
-
-General books
-======
-* Bias, fairness, transparency in AI
-  * Christian, *"The Alignment Problem: Machine Learning and Human Values"* (2020)
+  * Bishop, *"Pattern Recognition and Machine Learning"* (Springer, 2006): PRML
+  * Murphy, *"Probabilistic Machine Learning: An Introduction"* (MIT Press, 2022)
+  * Murphy, *"Probabilistic Machine Learning: Advanced Topics"* (MIT Press, 2023)
